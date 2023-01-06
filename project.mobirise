@@ -84,7 +84,7 @@
     "uniqCompNum": 12,
     "versionPublish": "5.7.4",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false
   },
   "pages": {
